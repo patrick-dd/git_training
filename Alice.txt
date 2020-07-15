@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Hello, I'm Alice
 Breaking things with Alice
 Adding some more text to Alice
+=======
+Hi! I'm Alice. <<Oh noes!>> I'm a file someone added to this repository a while ago.
+>>>>>>> df79c0a0de0b1cf9f53ee96576fa946cb15def08
